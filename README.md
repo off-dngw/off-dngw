@@ -1,17 +1,12 @@
-### Hi there 👋
+### Hi there 👋   
 
-<!--
-**off-dngw/off-dngw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 💻   **I'm a FrontEnd Develover**    
 
-Here are some ideas to get you started:
+ - 🇰🇷  **I'm working in South Korea**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/javascript-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+### How to reach me? 🤔
+
+- 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)
+
+- 📒  **off-dngw's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://
+- .com/)](https://.com/)
