@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=42564F&height=300&section=header&text=off-dngw&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=300&section=header&text=off-dngw&fontSize=90&animation=fadeIn)
 <!-- ### Hi there 👋   
 
  - 💻   **I'm a FrontEnd Develover**    
