@@ -10,5 +10,8 @@
 
 - 📒  **off-dngw's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://
 - .com/)](https://.com/)
+ 
 
-<img src="https://img.shields.io/badge/whitestyle=flat-square&logo=#F8DC75&logoColor=white"/></a>
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+
+ 
