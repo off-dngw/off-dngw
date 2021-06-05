@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=300&section=header&text=off-dngw&fontSize=90&animation=fadeIn)
-### Hi there 👋   
+<h2 align="center">### Hi there 👋  </h2> 
 
- - 💻   **I'm a Front-End Develover**    
+<h2 align="center"> - 💻   **I'm a Front-End Develover**</h2>    
 
- - 🇰🇷  **I'm working in South Korea**
+<h2 align="center"> - 🇰🇷  **I'm working in South Korea**</h2>
 
-### How to reach me? 🤔
+<h2 align="center">### How to reach me? 🤔</h2>
 
-- 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)
+<h2 align="center">- 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)</h2>
 
-- 📒  **off-dngw's blog ...**
+<h2 align="center">- 📒  **off-dngw's blog ...**</h2>
 
 <h2 align="center">☾⋆⁺₊⋆💙 all i can do 💙⋆⁺₊⋆☾</h2>
  
