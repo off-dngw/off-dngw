@@ -7,7 +7,7 @@
 
 <h2 align="center">### How to reach me? 🤔</h2>
 
-<h2 align="center">- 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)</h2>
+- 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)
 
 <h2 align="center">- 📒  **off-dngw's blog ...**</h2>
 
