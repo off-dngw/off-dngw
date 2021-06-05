@@ -18,7 +18,6 @@
 
 
 <img src="https://img.shields.io/badge/Eclipse-3766AB?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/ApacheTomcat-3766AB?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-3766AB?style=flat-square&logo=Xcode&logoColor=white"/>
 
@@ -27,4 +26,4 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90) -->
 
- -->
+
