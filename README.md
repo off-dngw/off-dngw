@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=300&section=header&text=off-dngw&fontSize=90&animation=fadeIn)
-<!-- ### Hi there 👋   
+### Hi there 👋   
 
  - 💻   **I'm a FrontEnd Develover**    
 
@@ -12,7 +12,7 @@
 - 📒  **off-dngw's blog ...**
  
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-3766AB?style=flat-square&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/ApacheTomcat-3766AB?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
@@ -23,3 +23,4 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90) -->
 
+ -->
