@@ -9,7 +9,7 @@
 
 - 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)
 
--📒  **off-dngw's blog ...**
+- 📒  **off-dngw's blog ...**
 
 <h2 align="center">☾⋆⁺₊⋆💙 all i can do 💙⋆⁺₊⋆☾</h2>
  
