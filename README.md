@@ -18,7 +18,7 @@
 
 
 <img src="https://img.shields.io/badge/Eclipse-3766AB?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Tomcat-3766AB?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-3766AB?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
 
 
 <!--  
