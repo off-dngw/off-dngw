@@ -12,8 +12,8 @@
 - .com/)](https://.com/)
  
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
-[![ECLIPSE](https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=Eclipse&logoColor=black)]
+(https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+(https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=Eclipse&logoColor=black)]
 
  
  
