@@ -9,7 +9,7 @@
 
 - 📮  **off-dngw's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:rlaehddn0729@gmail.com)
 
-- 📒  **off-dngw's blog ...**<a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+- 📒  **off-dngw's blog ...**<a href="https://velog.io/@off-dngw"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/>
 
 <h2 align="center">☾⋆⁺₊⋆💙 all i can do 💙⋆⁺₊⋆☾</h2>
  
