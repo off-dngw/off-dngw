@@ -31,6 +31,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90) -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&count_private=true&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=off-dngw&show_icons=true&theme=dracula&count_private=true&hide=prs)
 
 
