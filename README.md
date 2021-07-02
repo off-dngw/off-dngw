@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?off-dngw=anuraghazra&show_icons=true&theme=radical)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=300&section=header&text=off-dngw&fontSize=90&animation=fadeIn)
 ### Hi there 👋 
 
@@ -27,6 +30,6 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?off-dngw=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
